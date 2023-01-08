@@ -1,0 +1,9 @@
+D:\Visual Studio Projects\MyApiProject\DataLayer\bin\Debug\DataLayer.dll
+D:\Visual Studio Projects\MyApiProject\DataLayer\bin\Debug\DataLayer.pdb
+D:\Visual Studio Projects\MyApiProject\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\MyApiProject\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\MyApiProject\DataLayer\obj\Debug\DataLayer.dll
+D:\Visual Studio Projects\MyApiProject\DataLayer\obj\Debug\DataLayer.pdb
+D:\Visual Studio Projects\MyApiProject\DataLayer\bin\Debug\Dapper.dll
+D:\Visual Studio Projects\MyApiProject\DataLayer\bin\Debug\Dapper.xml
+D:\Visual Studio Projects\MyApiProject\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
